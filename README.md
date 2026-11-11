@@ -3,7 +3,7 @@
 Junior Frontend Developer
 Чернівці · 
 e-mail: 1234567890zloyrey2001@gmail.com 
-GitHub: посилання
+GitHub: https://github.com/Xatsaw-creator
 
 Про себе
 Студент 1 курсу Чернівецького політехнічного фахового коледжу, навчаюся веб-розробці. Створюю HTML/CSS-сторінки, вивчаю JavaScript. Шукаю стажування або junior-позицію, щоб здобути практичний досвід у frontend-розробці.
